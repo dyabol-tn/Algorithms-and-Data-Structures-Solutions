@@ -1,14 +1,14 @@
 # Algorithms-and-Data-Structures-Solutions
--[Solution 0.0](#solution-0.0)
--[Solution 0.1](#solution-0.1)
--[Solution 1.1](#solution-1.1)
--[Solution 1.2](#solution-1.2)
--[Solution 1.3](#solution-1.3)
--[Solution 1.4](#solution-1.4)
--[Solution 1.5](#solution-1.5)
--[Solution 1.6](#solution-1.6)
--[Solution 1.7](#solution-1.7)
--[Solution 1.8](#solution-1.8)
+-[Solution 0.0](#solution-00)
+-[Solution 0.1](#solution-01)
+-[Solution 1.1](#solution-11)
+-[Solution 1.2](#solution-12)
+-[Solution 1.3](#solution-13)
+-[Solution 1.4](#solution-14)
+-[Solution 1.5](#solution-15)
+-[Solution 1.6](#solution-16)
+-[Solution 1.7](#solution-17)
+-[Solution 1.8](#solution-18)
 
 ## Solution 0.0
 <img width="1664" height="833" alt="image" src="https://github.com/user-attachments/assets/47b0ac7c-218b-4e14-a27c-3b9790b984ad" />
