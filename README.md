@@ -9,6 +9,9 @@
   - [Solution 1.6](#solution-16)
   - [Solution 1.7](#solution-17)
   - [Solution 1.8](#solution-18)
+  - [Solution 2.1](#solution-21)
+  - [Solution 2.2](#solution-22)
+  - [Solution 2.3](#solution-23)
 
 ## Solution 0.0
 <img width="1664" height="833" alt="image" src="https://github.com/user-attachments/assets/47b0ac7c-218b-4e14-a27c-3b9790b984ad" />
@@ -39,3 +42,12 @@
 
 ## Solution 1.8
 <img width="1613" height="928" alt="image" src="https://github.com/user-attachments/assets/3fed9972-31cb-45e1-9087-6211a8469d8d" />
+
+## Solution 2.1
+<img width="1641" height="984" alt="image" src="https://github.com/user-attachments/assets/6f82e9e9-8781-4701-9335-c21897fcc03e" />
+
+## Solution 2.2
+<img width="1604" height="1134" alt="image" src="https://github.com/user-attachments/assets/57a1e697-ab8d-42cc-b1ea-45ceb7f317bd" />
+
+## Solution 2.3
+<img width="1615" height="1316" alt="image" src="https://github.com/user-attachments/assets/16350e3b-8bde-451e-8120-0bd03691375b" />
