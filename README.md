@@ -14,10 +14,10 @@
   - [Solution 2.3](#solution-23)
 
 ## Solution 0.0
-<img width="1664" height="833" alt="image" src="https://github.com/user-attachments/assets/47b0ac7c-218b-4e14-a27c-3b9790b984ad" />
+<img width="1613" height="1274" alt="image" src="https://github.com/user-attachments/assets/e9da5c77-64d6-4aba-a352-fc192dd56d67" />
 
 ## Solution 0.1
-<img width="1655" height="700" alt="image" src="https://github.com/user-attachments/assets/5ed48fc9-07df-4d39-a607-7acbaa3f04d2" />
+<img width="1626" height="1120" alt="image" src="https://github.com/user-attachments/assets/970ffe22-1214-442e-b3f5-2e33485143a9" />
 
 ## Solution 1.1
 <img width="1645" height="970" alt="image" src="https://github.com/user-attachments/assets/bc67d9f0-980d-485d-95ac-f018ebc0ffda" />
