@@ -12,6 +12,13 @@
   - [Solution 2.1](#solution-21)
   - [Solution 2.2](#solution-22)
   - [Solution 2.3](#solution-23)
+  - [Solution 3.1](#solution-31)
+  - [Solution 3.2](#solution-32)
+  - [Solution 3.3](#solution-33)
+  - [Solution 3.4](#solution-34)
+  - [Solution 3.5](#solution-35)
+  - [Solution 3.6](#solution-36)
+  - [Solution 3.7](#solution-37)
 
 ## Solution 0.0
 <img width="1613" height="1274" alt="image" src="https://github.com/user-attachments/assets/e9da5c77-64d6-4aba-a352-fc192dd56d67" />
