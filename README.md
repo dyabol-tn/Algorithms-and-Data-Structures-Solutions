@@ -9,6 +9,7 @@
   - [Solution 1.6](#solution-16)
   - [Solution 1.7](#solution-17)
   - [Solution 1.8](#solution-18)
+  - [Solution 1.13](#solution-113)
   - [Solution 2.1](#solution-21)
   - [Solution 2.2](#solution-22)
   - [Solution 2.3](#solution-23)
