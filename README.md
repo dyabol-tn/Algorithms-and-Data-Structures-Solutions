@@ -50,6 +50,9 @@
 ## Solution 1.8
 <img width="1613" height="928" alt="image" src="https://github.com/user-attachments/assets/3fed9972-31cb-45e1-9087-6211a8469d8d" />
 
+# Solution 1.13
+<img width="1641" height="640" alt="image" src="https://github.com/user-attachments/assets/9f4393bc-aaf6-4b3a-89bd-2ab68e61dd02" />
+
 ## Solution 2.1
 <img width="1641" height="984" alt="image" src="https://github.com/user-attachments/assets/6f82e9e9-8781-4701-9335-c21897fcc03e" />
 
