@@ -29,6 +29,7 @@
   - [Solution 4.5](#solution-45)
   - [Solution 4.6](#solution-46)
   - [Solution 4.7](#solution-47)
+  - [Solution 4.24](#solution-424)
 
 ## Solution 0.0
 <img width="1613" height="1274" alt="image" src="https://github.com/user-attachments/assets/e9da5c77-64d6-4aba-a352-fc192dd56d67" />
@@ -119,3 +120,6 @@
 
 ## Solution 4.7
 <img width="1613" height="1333" alt="image" src="https://github.com/user-attachments/assets/18f79e8c-7e54-4849-a57d-badc258dfe20" />
+
+## Solution 4.24
+<img width="1604" height="1196" alt="image" src="https://github.com/user-attachments/assets/5e4f1b0f-074c-4a1d-a32d-a3e0fefa613a" />
