@@ -13,6 +13,7 @@
   - [Solution 2.1](#solution-21)
   - [Solution 2.2](#solution-22)
   - [Solution 2.3](#solution-23)
+  - [Solution 2.3.3](#solution-233)
   - [Solution 3.1](#solution-31)
   - [Solution 3.2](#solution-32)
   - [Solution 3.3](#solution-33)
@@ -20,6 +21,14 @@
   - [Solution 3.5](#solution-35)
   - [Solution 3.6](#solution-36)
   - [Solution 3.7](#solution-37)
+  - [Solution 3.9](#solution-39)
+  - [Solution 4.1](#solution-41)
+  - [Solution 4.2](#solution-42)
+  - [Solution 4.3](#solution-43)
+  - [Solution 4.4](#solution-44)
+  - [Solution 4.5](#solution-45)
+  - [Solution 4.6](#solution-46)
+  - [Solution 4.7](#solution-47)
 
 ## Solution 0.0
 <img width="1613" height="1274" alt="image" src="https://github.com/user-attachments/assets/e9da5c77-64d6-4aba-a352-fc192dd56d67" />
@@ -63,6 +72,9 @@
 ## Solution 2.3
 <img width="1615" height="1316" alt="image" src="https://github.com/user-attachments/assets/16350e3b-8bde-451e-8120-0bd03691375b" />
 
+## Solution 2.3.3
+<img width="1608" height="950" alt="image" src="https://github.com/user-attachments/assets/eeefa99b-f64a-444e-a337-b57672b38a3e" />
+
 ## Solution 3.1
 <img width="1610" height="930" alt="image" src="https://github.com/user-attachments/assets/c61c6d9d-24f4-4493-8e79-9c8477d88fac" />
 
@@ -83,3 +95,27 @@
 
 ## Solution 3.7
 <img width="1609" height="1224" alt="image" src="https://github.com/user-attachments/assets/9054d400-a9f9-447b-a7f7-09d88a2d005e" />
+
+## Solution 3.9
+<img width="1605" height="1193" alt="image" src="https://github.com/user-attachments/assets/421fa791-2b7e-4703-9c34-0f19ac857192" />
+
+## Solution 4.1
+<img width="1624" height="852" alt="image" src="https://github.com/user-attachments/assets/4a3feddb-847e-4e97-8dae-3243ff1aee63" />
+
+## Solution 4.2
+<img width="1610" height="882" alt="image" src="https://github.com/user-attachments/assets/0f2b1f4e-2207-4ae2-8971-0354d5970d58" />
+
+## Solution 4.3
+<img width="1597" height="809" alt="image" src="https://github.com/user-attachments/assets/902bba9d-2afe-46b0-92d0-ec95196a79ce" />
+
+## Solution 4.4
+<img width="1610" height="949" alt="image" src="https://github.com/user-attachments/assets/1868d982-5832-4688-8a5e-2bf6d2fb66b4" />
+
+## Solution 4.5
+<img width="1602" height="889" alt="image" src="https://github.com/user-attachments/assets/07d57102-e228-4846-918c-35eaaaec59d7" />
+
+## Solution 4.6
+<img width="1606" height="903" alt="image" src="https://github.com/user-attachments/assets/255c721a-291b-403b-8e96-9c33fb45a570" />
+
+## Solution 4.7
+<img width="1613" height="1333" alt="image" src="https://github.com/user-attachments/assets/18f79e8c-7e54-4849-a57d-badc258dfe20" />
